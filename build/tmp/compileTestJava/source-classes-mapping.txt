@@ -1,0 +1,2 @@
+com/bridgelabz/selenium/test/LoginTest.java
+ com.bridgelabz.selenium.test.LoginTest
